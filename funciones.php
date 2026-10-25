@@ -6,12 +6,12 @@
  * @param float $num2 - Segundo número
  * @return float Suma de dos números
  */
-function sumarFranciscoS($num1, $num2){
+function sumarFranciscoS($num1, $num2)
 
     $suma = $num1+$num2;
 
     return $suma;
 
-}
+
 
 ?>
